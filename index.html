@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Season of Ghosts: Players</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@400;600;700&display=swap" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/daisyui@5.0.0/daisyui.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/daisyui@5.0.0/themes.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4.1.11/dist/index.global.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+  <style type="text/tailwindcss">
+    /* Text size and font are reader settings, so they live on the root and scale every rem. */
+    html { font-size: var(--reading-size, 100%); }
+    html[data-font="lexend"] body { font-family: "Lexend", ui-sans-serif, system-ui, sans-serif; }
+
+    /* Rendered Markdown. Generous line height and a narrow column reduce re-reading for dyslexic readers.
+       daisyUI loads as a plain stylesheet, so Tailwind cannot @apply its classes: theme colors come
+       from daisyUI's CSS variables instead, and links get daisyUI classes in app.js. */
+    .doc { @apply max-w-3xl leading-relaxed; }
+    .doc h1 { @apply text-3xl font-bold mb-4 mt-2; }
+    .doc h2 { @apply text-2xl font-bold mt-10 mb-3 pb-1 border-b; border-color: var(--color-base-300); }
+    .doc h3 { @apply text-xl font-semibold mt-6 mb-2; }
+    .doc h4 { @apply text-lg font-semibold mt-4 mb-2; }
+    /* Section links land below the sticky header, not under it. */
+    .doc :is(h1, h2, h3, h4, h5, h6) { scroll-margin-top: 5rem; }
+    .doc :is(h1, h2, h3, h4, h5, h6):focus { outline: none; }
+    .doc p { @apply my-3; }
+    .doc ul { @apply list-disc pl-6 my-3 space-y-1; }
+    .doc ol { @apply list-decimal pl-6 my-3 space-y-1; }
+    .doc li > ul, .doc li > ol { @apply my-1; }
+    .doc strong { @apply font-bold; color: var(--color-primary); }
+    .doc code { @apply font-mono text-sm rounded px-1 py-0.5; background: var(--color-base-200); }
+    /* Tips and in-world passages are blockquotes. In-world passages open in italics and get the accent border. */
+    .doc blockquote { @apply border-l-4 px-4 py-1 my-4; border-color: var(--color-base-300); background: var(--color-base-200); border-radius: var(--radius-box); }
+    .doc blockquote.in-world { border-color: var(--color-accent); }
+    .doc hr { @apply my-8; border-color: var(--color-base-300); }
+    .doc .table-wrap { @apply overflow-x-auto my-4 border; border-color: var(--color-base-300); border-radius: var(--radius-box); }
+    /* A dotted underline marks a link that shows a short summary on hover or keyboard focus. */
+    .doc a.tip-link { @apply decoration-dotted underline-offset-4; }
+    #term-tip { @apply fixed z-30 max-w-xs p-3 text-sm leading-snug shadow-lg pointer-events-none; background: var(--color-neutral); color: var(--color-neutral-content); border-radius: var(--radius-box); }
+    .site-footer { @apply max-w-3xl mt-16 pt-4 border-t text-sm space-y-2; border-color: var(--color-base-300); opacity: 0.8; }
+  </style>
+  <style>
+    @media print {
+      header.navbar, .drawer-side, .no-print { display: none !important; }
+      .drawer { display: block !important; }
+      main { padding: 0 !important; }
+      html, body, .doc { background: #fff !important; color: #000 !important; }
+      .doc strong { color: #000 !important; }
+      .doc { max-width: none !important; }
+    }
+  </style>
+</head>
+<body class="min-h-screen bg-base-100">
+  <button id="site-skip" type="button" class="btn btn-sm btn-primary sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-50">Skip to the page</button>
+
+  <div class="drawer lg:drawer-open">
+    <input id="site-nav-toggle" type="checkbox" class="drawer-toggle">
+
+    <div class="drawer-content flex flex-col">
+      <header class="navbar bg-base-200 sticky top-0 z-10 gap-2 px-4">
+        <label for="site-nav-toggle" class="btn btn-ghost btn-square lg:hidden" aria-label="Open menu">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/></svg>
+        </label>
+        <span id="site-title" class="flex-1 font-semibold truncate">Season of Ghosts: Players</span>
+        <button id="site-listen" type="button" class="btn btn-sm btn-primary" title="Read the selected text out loud, or the whole page if nothing is selected">Listen</button>
+        <div class="join">
+          <button id="site-smaller" type="button" class="btn btn-sm join-item" aria-label="Smaller text">A−</button>
+          <button id="site-bigger" type="button" class="btn btn-sm join-item" aria-label="Bigger text">A+</button>
+        </div>
+        <label class="label cursor-pointer gap-2 text-sm">
+          <span class="hidden sm:inline">Lexend</span>
+          <input id="site-font" type="checkbox" class="toggle toggle-sm" aria-label="Use the Lexend reading font">
+        </label>
+        <label class="swap swap-rotate btn btn-sm btn-ghost btn-square" aria-label="Dark mode">
+          <input id="site-theme" type="checkbox">
+          <span class="swap-off">☀</span>
+          <span class="swap-on">☾</span>
+        </label>
+      </header>
+
+      <main class="p-4 sm:p-8">
+        <article id="site-doc" class="doc"></article>
+        <!-- Paizo's Community Use Policy asks for this notice and a way to reach the site owner on every page. -->
+        <footer class="site-footer">
+          <p>An unofficial fan site for a home game. Questions or corrections: <a class="link" href="https://github.com/ernieayala/season-of-ghosts-players/issues" target="_blank" rel="noopener">open an issue on GitHub</a>.</p>
+          <p>This website uses trademarks and/or copyrights owned by Paizo Inc., used under Paizo's Community Use Policy (<a class="link" href="https://paizo.com/licenses/communityuse" target="_blank" rel="noopener">paizo.com/licenses/communityuse</a>). We are expressly prohibited from charging you to use or access this content. This website is not published, endorsed, or specifically approved by Paizo. For more information about Paizo Inc. and Paizo products, visit <a class="link" href="https://paizo.com" target="_blank" rel="noopener">paizo.com</a>.</p>
+        </footer>
+      </main>
+    </div>
+
+    <div class="drawer-side z-20">
+      <label for="site-nav-toggle" class="drawer-overlay" aria-label="Close menu"></label>
+      <nav class="bg-base-200 min-h-full w-72 p-4" aria-label="Pages">
+        <a href="#/" class="text-xl font-bold block mb-4 px-2">Season of Ghosts: Players</a>
+        <ul id="site-nav" class="menu w-full p-0"></ul>
+      </nav>
+    </div>
+  </div>
+
+  <div id="term-tip" role="tooltip" class="no-print" hidden></div>
+
+  <script src="site/app.js"></script>
+</body>
+</html>
