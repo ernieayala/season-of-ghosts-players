@@ -166,13 +166,13 @@ The people, places, creatures, and ideas your characters know about, A to Z. Eac
 **Seen in:** [The Cerulean Teahouse](history.md#the-cerulean-teahouse).
 
 ### Gourd Lake
-**Type:** Place. A lake outside town. The five kappas went back there after you talked them out of the bathhouse.
-**Seen in:** [The bathhouse](history.md#the-bathhouse).
+**Type:** Place. A lake outside town, on the road to Karahai. The five kappas went back there after you talked them out of the bathhouse.
+**Seen in:** [The bathhouse](history.md#the-bathhouse), [The road to Karahai](history.md#the-road-to-karahai).
 
 ### Governor's Manor
 **In short:** The governor's house downtown. It vanished overnight, and nobody can say how.
-**Type:** Place. The governor's grand house downtown. **It's gone.** The morning after you relit the Lantern, only an empty lot remained, with two defaced stone lions that once guarded its gate. Nobody can say how it happened.
-**Seen in:** [The morning after the Lantern](history.md#the-morning-after-the-lantern).
+**Type:** Place. The governor's grand house downtown. **It's gone.** The morning after you relit the Lantern, only an empty lot remained, with two defaced stone lions that once guarded its gate. Nobody can say how it happened. The elders asked you to find out.
+**Seen in:** [The morning after the Lantern](history.md#the-morning-after-the-lantern), [Three mysteries](history.md#three-mysteries).
 
 ### Granny Hu
 **Type:** Person. → see **[Hu Ban-niang (Granny Hu)](#hu-ban-niang-granny-hu)** under H.
@@ -212,14 +212,14 @@ The people, places, creatures, and ideas your characters know about, A to Z. Eac
 **Seen in:** [The bathhouse](history.md#the-bathhouse).
 
 ### Heh Shan-Bao
-**In short:** Willowshore's governor. His manor vanished, and nobody has said where he is.
-**Type:** Person. Willowshore's governor. His [manor](#governors-manor) vanished. Nobody has told you where he is.
-**Seen in:** [The morning after the Lantern](history.md#the-morning-after-the-lantern).
+**In short:** Willowshore's governor. He and his manor vanished. The elders asked you to find out what happened.
+**Type:** Person. Willowshore's governor. He and his [manor](#governors-manor) vanished. Nobody has told you where he is. The elders asked you to find out what happened, and they think it's the most pressing of the three mysteries.
+**Seen in:** [The morning after the Lantern](history.md#the-morning-after-the-lantern), [Three mysteries](history.md#three-mysteries).
 
 ### Hu Ban-niang (Granny Hu)
-**In short:** A retired guard captain who speaks for Northridge. She asked you to ride to Karahai.
-**Type:** Person. A retired guard captain and the elder who speaks for [Northridge](#northridge). She runs things from the [Trade Office](#trade-office), with her aide [Kim Gu-won](#kim-gu-won). She called [Mo Douqiu](#mo-douqiu) the monsters' "brain." You rescued her grandchildren. [Hai-er Ha](#hai-er-ha)'s daughter was in her care. Nezu gave her the stolen jewelry to return to its owners, and she asked you to ride to [Karahai](#karahai).
-**Seen in:** [The two elders](history.md#the-two-elders), [Missions for the town](history.md#missions-for-the-town), [Granny Hu's errand](history.md#granny-hus-errand).
+**In short:** A retired guard captain who speaks for Northridge. She and Old Matsuki asked you to solve three mysteries.
+**Type:** Person. A retired guard captain and the elder who speaks for [Northridge](#northridge). She runs things from the [Trade Office](#trade-office), with her aide [Kim Gu-won](#kim-gu-won). She called [Mo Douqiu](#mo-douqiu) the monsters' "brain." You rescued her grandchildren. [Hai-er Ha](#hai-er-ha)'s daughter was in her care. Nezu gave her the stolen jewelry to return to its owners, and she sent you to [Karahai](#karahai). After the fog turned you back, she and [Old Matsuki](#matsuki-shou-old-matsuki) asked you to investigate the missing governor, the fog, and [Ugly Cute](#ugly-cute).
+**Seen in:** [The two elders](history.md#the-two-elders), [Missions for the town](history.md#missions-for-the-town), [Granny Hu's errand](history.md#granny-hus-errand), [Three mysteries](history.md#three-mysteries).
 
 ### Hu Lelong
 **In short:** A young man in love with Yuli Sanmi. The two plan to run away together.
@@ -263,9 +263,9 @@ The people, places, creatures, and ideas your characters know about, A to Z. Eac
 ## K
 
 ### Karahai
-**In short:** A fortified town on the coast to the east, Willowshore's nearest neighbor. Granny Hu asked you to ride there.
-**Type:** Place. A fortified settlement several dozen miles east of Willowshore, on the coast of the Sea of Ghosts. It's the town's nearest neighbor and its most important trade partner. [Granny Hu](#hu-ban-niang-granny-hu) asked you to ride there.
-**Seen in:** [Granny Hu's errand](history.md#granny-hus-errand).
+**In short:** A fortified town on the coast to the east, Willowshore's nearest neighbor. You tried to ride there, and a strange fog turned you back.
+**Type:** Place. A fortified settlement several dozen miles east of Willowshore, on the coast of the Sea of Ghosts. It's the town's nearest neighbor and its most important trade partner. [Granny Hu](#hu-ban-niang-granny-hu) sent you there, but a [strange fog](#strange-fog) on the road kept returning you to where you started. You never reached it.
+**Seen in:** [Granny Hu's errand](history.md#granny-hus-errand), [The road to Karahai](history.md#the-road-to-karahai).
 
 ### Kappa
 **In short:** River folk. You talked five of them out of the bathhouse, and they went home to Gourd Lake.
@@ -283,8 +283,8 @@ The people, places, creatures, and ideas your characters know about, A to Z. Eac
 ## L
 
 ### Lady of Souls
-**Type:** Place. Willowshore's cathedral to [Pharasma](#pharasma). You blessed a Lantern coin here.
-**Seen in:** [Blessing the coins](history.md#blessing-the-coins).
+**Type:** Place. Willowshore's cathedral to [Pharasma](#pharasma). You blessed a Lantern coin here. Later both elders met you here and asked you to solve three mysteries.
+**Seen in:** [Blessing the coins](history.md#blessing-the-coins), [Three mysteries](history.md#three-mysteries).
 
 ### Lantern boon
 **In short:** +1 to Medicine and Society for each of you, from the gods whose coins lit the Lantern.
@@ -325,9 +325,9 @@ The people, places, creatures, and ideas your characters know about, A to Z. Eac
 **Seen in:** [The two elders](history.md#the-two-elders).
 
 ### Matsuki Shou (Old Matsuki)
-**In short:** A retired carpenter who speaks for Southbank. He gave you the coins for the Lantern.
-**Type:** Person. A retired carpenter and the elder who speaks for [Southbank](#southbank). He told you the story of the Lantern, gave you the three copper coins, and taught you the blessing prayer. He asked you to find [Ugly Cute](#ugly-cute).
-**Seen in:** [The two elders](history.md#the-two-elders).
+**In short:** A retired carpenter who speaks for Southbank. He gave you the coins for the Lantern, and with Granny Hu asked you to solve three mysteries.
+**Type:** Person. A retired carpenter and the elder who speaks for [Southbank](#southbank). He told you the story of the Lantern, gave you the three copper coins, and taught you the blessing prayer. He asked you to find [Ugly Cute](#ugly-cute). Later he and [Granny Hu](#hu-ban-niang-granny-hu) asked you to investigate the missing governor, the [strange fog](#strange-fog), and Ugly Cute.
+**Seen in:** [The two elders](history.md#the-two-elders), [Three mysteries](history.md#three-mysteries).
 
 ### Mirage mist
 **In short:** The thick daytime fog that covered town while the Lantern was dark.
@@ -477,6 +477,11 @@ Your current standing is on [Where we are now](now.md#your-standing-in-town).
 **Type:** Place. Willowshore's eastern entrance, where the stone spider [Ugly Cute](#ugly-cute) stands guard with a lantern. On the first morning the statue was gone and its lantern lay unlit.
 **Seen in:** [The road into town](history.md#the-road-into-town).
 
+### Strange fog
+**In short:** A thick fog that turned you back on the road to Karahai. Every time it lifted, you were back where you started.
+**Type:** Omen. A few hours short of [Karahai](#karahai), past [Gourd Lake](#gourd-lake), a fog rolled in fast and thick, far thicker than the [mirage mist](#mirage-mist). The horses balked. When it lifted, you stood exactly where you were before it came, and it did the same every time you pushed on. Nothing you knew explained it. The elders say the mists surround the land around town and stop travel, and they've asked you to find out why.
+**Seen in:** [The road to Karahai](history.md#the-road-to-karahai), [Three mysteries](history.md#three-mysteries).
+
 [↑ A–Z](#az)
 
 ---
@@ -500,8 +505,8 @@ Your current standing is on [Where we are now](now.md#your-standing-in-town).
 
 ### Ugly Cute
 **In short:** The stone spider that guards the Spider Gate. It's missing.
-**Type:** Landmark. The horse-sized stone spider that has guarded the [Spider Gate](#spider-gate) for generations, holding a lantern in its fangs. Locals call it "ugly but cute." **It's missing.** On the first morning its shrine stood empty, and deep tracks led down the road into the river. [Old Matsuki](#matsuki-shou-old-matsuki) wants it found. [Granny Hu](#hu-ban-niang-granny-hu) scoffs at the idea of a statue waking up.
-**Seen in:** [The road into town](history.md#the-road-into-town), [The two elders](history.md#the-two-elders).
+**Type:** Landmark. The horse-sized stone spider that has guarded the [Spider Gate](#spider-gate) for generations, holding a lantern in its fangs. Locals call it "ugly but cute." **It's missing.** On the first morning its shrine stood empty, and deep tracks led down the road into the river. [Old Matsuki](#matsuki-shou-old-matsuki) wants it found. [Granny Hu](#hu-ban-niang-granny-hu) scoffs at the idea of a statue waking up, but both elders have now asked you to look for it.
+**Seen in:** [The road into town](history.md#the-road-into-town), [The two elders](history.md#the-two-elders), [Three mysteries](history.md#three-mysteries).
 
 [↑ A–Z](#az)
 

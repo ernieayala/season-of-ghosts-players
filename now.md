@@ -2,7 +2,7 @@
 
 **Where we are now** · [The story so far](story.md) · [History](history.md) · [Compendium](compendium.md) · [Willowshore basics](basics.md)
 
-**Updated November 16, 2026.** Chapter 3. You're level 2.
+**Updated after the session on November 16, 2026.** Chapter 3. You're level 2.
 
 > This site holds only what your characters know. If something isn't here, they haven't learned it yet.
 >
@@ -12,14 +12,23 @@
 
 ## Right now
 
-- [Granny Hu](compendium.md#hu-ban-niang-granny-hu) has asked you to ride to [Karahai](compendium.md#karahai).
-- You've been trading with [Asahina Shinzo](compendium.md#asahina-shinzo), a traveling merchant who rolled into town with a cart and a raven on his shoulder. He sells everyday goods and buys what you don't need.
-- Nezu gave the stolen jewelry from Mudwall House to Granny Hu, so she can return it to its owners.
+- You're back in Willowshore. You rode for [Karahai](compendium.md#karahai), but a [strange fog](compendium.md#strange-fog) turned you around on the road, and you couldn't get through.
 - You're holding the will of [Qing Mai-Lai](compendium.md#qing-mai-lai), which you found in the [Cerulean Teahouse](compendium.md#cerulean-teahouse).
+- [Asahina Shinzo](compendium.md#asahina-shinzo), the traveling merchant, sells everyday goods and buys what you don't need.
+
+## Your task
+
+Both elders asked you to look into three mysteries. Take them in any order, though the governor seems most pressing.
+
+| Mystery | What you know |
+|---|---|
+| The missing governor | [Heh Shan-Bao](compendium.md#heh-shan-bao) and his [manor](compendium.md#governors-manor) vanished overnight |
+| The fog | A [strange fog](compendium.md#strange-fog) turned you back on the road to Karahai, and the elders say it surrounds the land around town |
+| Ugly Cute | The stone guardian [Ugly Cute](compendium.md#ugly-cute) is missing from the Spider Gate |
 
 ## The monster leaders
 
-The elders asked you to free downtown and stop the monsters' three leaders. You did.
+In Chapter 2 the elders asked you to free downtown and stop the monsters' three leaders. You did.
 
 | Leader | Status |
 |---|---|

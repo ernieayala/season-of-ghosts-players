@@ -32,7 +32,9 @@ The last leader, [Mo Douqiu](compendium.md#mo-douqiu), held the [Cerulean Teahou
 
 > *The monsters were gone, and a stranger's cart came rattling down the empty street.*
 
-A traveling merchant, [Asahina Shinzo](compendium.md#asahina-shinzo), set up a stall downtown, and you traded with him. Nezu handed the stolen jewelry to [Granny Hu](compendium.md#hu-ban-niang-granny-hu) to return to its owners, and she asked you to ride to [Karahai](compendium.md#karahai).
+A traveling merchant, [Asahina Shinzo](compendium.md#asahina-shinzo), set up a stall downtown, and you traded with him. Nezu handed the stolen jewelry to [Granny Hu](compendium.md#hu-ban-niang-granny-hu) to return to its owners, and she sent you to [Karahai](compendium.md#karahai) on horseback. You never arrived. A few hours short of the coast a [strange fog](compendium.md#strange-fog) rolled in, and when it lifted you stood exactly where you'd started. It happened every time you tried.
+
+Back in town, both elders thanked you and asked you to look into three mysteries: the missing governor, the fog, and the missing [Ugly Cute](compendium.md#ugly-cute).
 
 ## Next
 

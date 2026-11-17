@@ -27,6 +27,8 @@ Everything your characters have done. Chapter 1 runs in order. You moved back an
 - [Chapter 3](#chapter-3)
   - [The traveling merchant](#the-traveling-merchant)
   - [Granny Hu's errand](#granny-hus-errand)
+  - [The road to Karahai](#the-road-to-karahai)
+  - [Three mysteries](#three-mysteries)
 - [Session dates](#session-dates)
 
 ---
@@ -176,6 +178,22 @@ Everything your characters have done. Chapter 1 runs in order. You moved back an
 
 - Nezu gave the 24 pieces of stolen jewelry from [Mudwall House](compendium.md#mudwall-house) to [Granny Hu](compendium.md#hu-ban-niang-granny-hu), so she could return them to their owners. He kept his family's [cursed necklace](compendium.md#cursed-family-necklace).
 - Granny Hu asked you to ride to [Karahai](compendium.md#karahai).
+
+### The road to Karahai
+
+- You set out on horseback along the road southeast toward [Karahai](compendium.md#karahai). The trip was quiet.
+- A few hours short of the coast, past [Gourd Lake](compendium.md#gourd-lake), a [strange fog](compendium.md#strange-fog) rolled in fast and thick. The horses balked. When it lifted, you stood exactly where you were before it came. Karahai was no closer.
+- Every time you pushed on, the fog came back and returned you to the same spot.
+- Nothing any of you knew explained it, beyond a guess that some curse has settled on the land, tied to the monsters and the vanished governor.
+- Night fell with a rainstorm, and you made your way back to Willowshore.
+
+### Three mysteries
+
+- A few days later, [Granny Hu](compendium.md#hu-ban-niang-granny-hu) and [Old Matsuki](compendium.md#matsuki-shou-old-matsuki) met you together at the [Lady of Souls](compendium.md#lady-of-souls). They set their feud aside to thank you for what you've done for the town.
+- They asked you to investigate three mysteries, in any order:
+  - the vanishing of Governor [Heh Shan-Bao](compendium.md#heh-shan-bao) and his [manor](compendium.md#governors-manor). They think this is the most pressing.
+  - the [strange fog](compendium.md#strange-fog) that surrounds the land around town and stops travel
+  - the disappearance of [Ugly Cute](compendium.md#ugly-cute)
 - **This is where you stopped.** See [Where we are now](now.md).
 
 [↑ Back to top](#history)
@@ -184,11 +202,12 @@ Everything your characters have done. Chapter 1 runs in order. You moved back an
 
 ## Session dates
 
-These are the sessions recorded in Foundry's chat log. Earlier Chapter 2 scenes, like the stables and the stage, happened before the log starts. The session that finished the teahouse and met Shinzo isn't in the log.
+Earlier Chapter 2 scenes, like the stables and the stage, happened before Foundry's chat log starts. The session that finished the teahouse has no date recorded.
 
 | Date | What you did |
 |---|---|
 | June 8, 2026 | De-ge and the kappas, Mudwall House, Nadoya, the love letters |
 | July 13, 2026 | The barracks and armory, the caged townsfolk, Gray Butcher, the teahouse toad |
+| November 16, 2026 | Shinzo, the returned jewelry, the road to Karahai, the elders' three mysteries |
 
 [↑ Back to top](#history)
