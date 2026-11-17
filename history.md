@@ -24,7 +24,10 @@ Everything your characters have done. Chapter 1 runs in order. You moved back an
   - [The barracks](#the-barracks)
   - [The cookware parade](#the-cookware-parade)
   - [The Cerulean Teahouse](#the-cerulean-teahouse)
-  - [Session dates](#session-dates)
+- [Chapter 3](#chapter-3)
+  - [The traveling merchant](#the-traveling-merchant)
+  - [Granny Hu's errand](#granny-hus-errand)
+- [Session dates](#session-dates)
 
 ---
 
@@ -149,11 +152,39 @@ Everything your characters have done. Chapter 1 runs in order. You moved back an
 
 - You entered the [Cerulean Teahouse](compendium.md#cerulean-teahouse). The ground floor is wrecked, with gouged walls, broken pots, and an overturned table.
 - A [giant toad](compendium.md#giant-toad) attacked. It mauled Nezu and grabbed Aseren in its jaws before you killed it.
+- On the counter you found a will: the last will and testament of [Qing Mai-Lai](compendium.md#qing-mai-lai). You took it.
+- Twelve townsfolk were locked in the pantry. You freed them all.
+- You killed [Mo Douqiu](compendium.md#mo-douqiu) and the creatures he kept in the teahouse. All three monster leaders were dead, and downtown was free.
+- You sided with neither elder.
+
+[↑ Back to top](#history)
+
+---
+
+## Chapter 3
+
+> *The monsters were gone, and the town was counting what it had left. Then a stranger's cart came rattling down the empty street.*
+
+### The traveling merchant
+
+- A man drove a horse-drawn cart into downtown and set up a modest stall. He has an easy smile and a raven on his shoulder.
+- He introduced himself as [Asahina Shinzo](compendium.md#asahina-shinzo), a traveling salesman hoping to add Willowshore to his regular route.
+- Some townsfolk were wary of a stranger turning up so soon after the monsters fell.
+- You bought and sold with him.
+
+### Granny Hu's errand
+
+- Nezu gave the 24 pieces of stolen jewelry from [Mudwall House](compendium.md#mudwall-house) to [Granny Hu](compendium.md#hu-ban-niang-granny-hu), so she could return them to their owners. He kept his family's [cursed necklace](compendium.md#cursed-family-necklace).
+- Granny Hu asked you to ride to [Karahai](compendium.md#karahai).
 - **This is where you stopped.** See [Where we are now](now.md).
 
-### Session dates
+[↑ Back to top](#history)
 
-These are the sessions recorded in Foundry's chat log. Earlier Chapter 2 scenes, like the stables and the stage, happened before the log starts.
+---
+
+## Session dates
+
+These are the sessions recorded in Foundry's chat log. Earlier Chapter 2 scenes, like the stables and the stage, happened before the log starts. The session that finished the teahouse and met Shinzo isn't in the log.
 
 | Date | What you did |
 |---|---|

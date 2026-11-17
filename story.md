@@ -26,8 +26,14 @@ You found the two elders, [Old Matsuki](compendium.md#matsuki-shou-old-matsuki) 
 
 Downtown was still in monster hands, and the governor's [manor had vanished](compendium.md#governors-manor) overnight. Street by street, you took it back. You freed the guard captain and his men from their own cells and routed a houseful of drunk jinkins, stumbling onto a hidden romance along the way. You talked five kappas out of a bathhouse. Then you destroyed [Gray Butcher](compendium.md#gray-butcher) and his parade of living cookware.
 
-One leader remains: [Mo Douqiu](compendium.md#mo-douqiu). You've fought your way into his base, the [Cerulean Teahouse](compendium.md#cerulean-teahouse).
+The last leader, [Mo Douqiu](compendium.md#mo-douqiu), held the [Cerulean Teahouse](compendium.md#cerulean-teahouse). You fought through it, freed the twelve townsfolk he kept locked in the pantry, and killed him and his creatures. On the counter you found the will of the teahouse's last owner, [Qing Mai-Lai](compendium.md#qing-mai-lai). Downtown was free.
+
+## Chapter 3
+
+> *The monsters were gone, and a stranger's cart came rattling down the empty street.*
+
+A traveling merchant, [Asahina Shinzo](compendium.md#asahina-shinzo), set up a stall downtown, and you traded with him. Nezu handed the stolen jewelry to [Granny Hu](compendium.md#hu-ban-niang-granny-hu) to return to its owners, and she asked you to ride to [Karahai](compendium.md#karahai).
 
 ## Next
 
-The rest of the teahouse lies ahead. See [Where we are now](now.md).
+See [Where we are now](now.md).

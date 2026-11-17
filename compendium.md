@@ -23,6 +23,11 @@ The people, places, creatures, and ideas your characters know about, A to Z. Eac
 **Type:** Creature. Swarms of pots, pans, cleavers, kettles, and chopsticks that clatter along on their own. Two swarms marched in [Gray Butcher](#gray-butcher)'s parade.
 **Seen in:** [The cookware parade](history.md#the-cookware-parade).
 
+### Asahina Shinzo
+**In short:** A traveling merchant with a raven on his shoulder. He set up a stall downtown after the monsters fell.
+**Type:** Person. A traveling salesman with an easy smile and a raven on his shoulder. He drove a horse-drawn cart into downtown soon after the monsters fell and set up a modest stall, hoping to add Willowshore to his regular route. Some townsfolk are wary of how soon he turned up. You've been buying and selling with him.
+**Seen in:** [The traveling merchant](history.md#the-traveling-merchant).
+
 [↑ A–Z](#az)
 
 ---
@@ -58,8 +63,8 @@ The people, places, creatures, and ideas your characters know about, A to Z. Eac
 **Seen in:** [The two elders](history.md#the-two-elders).
 
 ### Cerulean Teahouse
-**In short:** An abandoned teahouse north of downtown, said to be Mo Douqiu's base. You're inside it now.
-**Type:** Place. An abandoned teahouse a short walk north of downtown. The townsfolk you freed from the bamboo cage named it as [Mo Douqiu](#mo-douqiu)'s base. You're inside it now, on a wrecked ground floor.
+**In short:** An abandoned teahouse north of downtown, and Mo Douqiu's base. You cleared it and found its owner's will.
+**Type:** Place. An abandoned teahouse a short walk north of downtown. The townsfolk you freed from the bamboo cage named it as [Mo Douqiu](#mo-douqiu)'s base. You fought through it, freed twelve townsfolk from its pantry, and killed Mo there. On the counter you found the will of its last owner, [Qing Mai-Lai](#qing-mai-lai).
 **Seen in:** [The barracks](history.md#the-barracks), [The Cerulean Teahouse](history.md#the-cerulean-teahouse).
 
 ### Choe Chung-hu
@@ -98,9 +103,9 @@ The people, places, creatures, and ideas your characters know about, A to Z. Eac
 **Seen in:** [Missions for the town](history.md#missions-for-the-town).
 
 ### Downtown
-**In short:** The heart of Willowshore. Monsters held it, and you've freed most of it.
-**Type:** Place. The heart of Willowshore, holding the barracks, the public stage, the Happy Kappa bathhouse, Treesparrow's grocery, and once the [Governor's Manor](#governors-manor). Monsters held it after the Lantern was lit. You've freed most of it.
-**Seen in:** [Chapter 2](history.md#chapter-2-reclaiming-willowshore).
+**In short:** The heart of Willowshore. Monsters held it, and you freed it.
+**Type:** Place. The heart of Willowshore, holding the barracks, the public stage, the Happy Kappa bathhouse, Treesparrow's grocery, and once the [Governor's Manor](#governors-manor). Monsters held it after the Lantern was lit. You freed it.
+**Seen in:** [Chapter 2](history.md#chapter-2-reclaiming-willowshore), [The traveling merchant](history.md#the-traveling-merchant).
 
 ### Dreamtime tea
 **In short:** An addictive drug Doctor Dami gave you to put Gurglegut to sleep. It didn't work.
@@ -212,9 +217,9 @@ The people, places, creatures, and ideas your characters know about, A to Z. Eac
 **Seen in:** [The morning after the Lantern](history.md#the-morning-after-the-lantern).
 
 ### Hu Ban-niang (Granny Hu)
-**In short:** A retired guard captain who speaks for Northridge. She called Mo Douqiu the monsters' "brain."
-**Type:** Person. A retired guard captain and the elder who speaks for [Northridge](#northridge). She runs things from the [Trade Office](#trade-office), with her aide [Kim Gu-won](#kim-gu-won). She called [Mo Douqiu](#mo-douqiu) the monsters' "brain." You rescued her grandchildren. [Hai-er Ha](#hai-er-ha)'s daughter was in her care.
-**Seen in:** [The two elders](history.md#the-two-elders), [Missions for the town](history.md#missions-for-the-town).
+**In short:** A retired guard captain who speaks for Northridge. She asked you to ride to Karahai.
+**Type:** Person. A retired guard captain and the elder who speaks for [Northridge](#northridge). She runs things from the [Trade Office](#trade-office), with her aide [Kim Gu-won](#kim-gu-won). She called [Mo Douqiu](#mo-douqiu) the monsters' "brain." You rescued her grandchildren. [Hai-er Ha](#hai-er-ha)'s daughter was in her care. Nezu gave her the stolen jewelry to return to its owners, and she asked you to ride to [Karahai](#karahai).
+**Seen in:** [The two elders](history.md#the-two-elders), [Missions for the town](history.md#missions-for-the-town), [Granny Hu's errand](history.md#granny-hus-errand).
 
 ### Hu Lelong
 **In short:** A young man in love with Yuli Sanmi. The two plan to run away together.
@@ -256,6 +261,11 @@ The people, places, creatures, and ideas your characters know about, A to Z. Eac
 ---
 
 ## K
+
+### Karahai
+**In short:** A fortified town on the coast to the east, Willowshore's nearest neighbor. Granny Hu asked you to ride there.
+**Type:** Place. A fortified settlement several dozen miles east of Willowshore, on the coast of the Sea of Ghosts. It's the town's nearest neighbor and its most important trade partner. [Granny Hu](#hu-ban-niang-granny-hu) asked you to ride there.
+**Seen in:** [Granny Hu's errand](history.md#granny-hus-errand).
 
 ### Kappa
 **In short:** River folk. You talked five of them out of the bathhouse, and they went home to Gourd Lake.
@@ -325,9 +335,9 @@ The people, places, creatures, and ideas your characters know about, A to Z. Eac
 **Seen in:** [The road into town](history.md#the-road-into-town).
 
 ### Mo Douqiu
-**In short:** The last of the three monster leaders. The townsfolk say his base is the Cerulean Teahouse.
-**Type:** Person. The last of the three monster leaders the elders named. [Granny Hu](#hu-ban-niang-granny-hu) called him the monsters' "brain." The kappas said he invited them to town. The caged townsfolk said his base is the [Cerulean Teahouse](#cerulean-teahouse).
-**Seen in:** [The two elders](history.md#the-two-elders), [The bathhouse](history.md#the-bathhouse), [The barracks](history.md#the-barracks).
+**In short:** The last of the three monster leaders. You killed him in the Cerulean Teahouse.
+**Type:** Person. The last of the three monster leaders the elders named. [Granny Hu](#hu-ban-niang-granny-hu) called him the monsters' "brain." The kappas said he invited them to town. The caged townsfolk said his base is the [Cerulean Teahouse](#cerulean-teahouse). **Dead.** You killed him there, along with the creatures he kept.
+**Seen in:** [The two elders](history.md#the-two-elders), [The bathhouse](history.md#the-bathhouse), [The barracks](history.md#the-barracks), [The Cerulean Teahouse](history.md#the-cerulean-teahouse).
 
 ### Mother Otis
 **Type:** Person. Innkeeper of the Thrice-Blessed Inn.
@@ -397,6 +407,11 @@ The people, places, creatures, and ideas your characters know about, A to Z. Eac
 **In short:** God of medicine, with a shrine in Doctor Dami's clinic. You blessed a Lantern coin there.
 **Type:** God of medicine. His shrine sits inside [Doctor Dami](#doctor-dami)'s clinic. You blessed a Lantern coin there. His part of the [Lantern boon](#lantern-boon) is Medicine.
 **Seen in:** [Missions for the town](history.md#missions-for-the-town), [Blessing the coins](history.md#blessing-the-coins).
+
+### Qing Mai-Lai
+**In short:** The Cerulean Teahouse's last owner. You found Mai-Lai's will on the teahouse counter and took it.
+**Type:** Person. The last owner of the [Cerulean Teahouse](#cerulean-teahouse). A document titled "The Last Will and Testament of Qing Mai-Lai" lay on the teahouse counter with the teahouse's papers. You took it.
+**Seen in:** [The Cerulean Teahouse](history.md#the-cerulean-teahouse).
 
 [↑ A–Z](#az)
 

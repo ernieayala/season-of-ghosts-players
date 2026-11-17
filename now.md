@@ -2,7 +2,7 @@
 
 **Where we are now** · [The story so far](story.md) · [History](history.md) · [Compendium](compendium.md) · [Willowshore basics](basics.md)
 
-**Updated after the session on July 13, 2026.** Chapter 2: Reclaiming Willowshore. You're level 2.
+**Updated November 16, 2026.** Chapter 3. You're level 2.
 
 > This site holds only what your characters know. If something isn't here, they haven't learned it yet.
 >
@@ -12,23 +12,24 @@
 
 ## Right now
 
-- You're on the ground floor of the [Cerulean Teahouse](compendium.md#cerulean-teahouse). The [giant toad](compendium.md#giant-toad) that guarded it is dead.
-- Nezu took a bad mauling from the toad, and the toad had Aseren in its jaws. Check your hit points before the next fight.
-- You haven't explored the rest of the teahouse yet.
+- [Granny Hu](compendium.md#hu-ban-niang-granny-hu) has asked you to ride to [Karahai](compendium.md#karahai).
+- You've been trading with [Asahina Shinzo](compendium.md#asahina-shinzo), a traveling merchant who rolled into town with a cart and a raven on his shoulder. He sells everyday goods and buys what you don't need.
+- Nezu gave the stolen jewelry from Mudwall House to Granny Hu, so she can return it to its owners.
+- You're holding the will of [Qing Mai-Lai](compendium.md#qing-mai-lai), which you found in the [Cerulean Teahouse](compendium.md#cerulean-teahouse).
 
-## Your task
+## The monster leaders
 
-The elders asked you to free downtown and stop the monsters' three leaders.
+The elders asked you to free downtown and stop the monsters' three leaders. You did.
 
 | Leader | Status |
 |---|---|
 | [Gurglegut](compendium.md#gurglegut) | Dead. Killed on Dawnstep Bridge in Chapter 1 |
 | [Gray Butcher](compendium.md#gray-butcher) | Dead. Destroyed with his cookware parade |
-| [Mo Douqiu](compendium.md#mo-douqiu) | **Still out there.** The caged townsfolk said his base is this teahouse |
+| [Mo Douqiu](compendium.md#mo-douqiu) | Dead. Killed in the Cerulean Teahouse, with the creatures he kept there |
 
 ## Your standing in town
 
-Both halves of town now count you as **Liked**:
+Both halves of town count you as **Liked**. You haven't sided with either elder.
 
 | Faction | Standing | Townsfolk start | Persuasion DCs | Earn Income |
 |---|---|---|---|---|
