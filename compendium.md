@@ -410,7 +410,7 @@ The people, places, creatures, and ideas your characters know about, A to Z. Eac
 
 ### Qing Mai-Lai
 **In short:** The Cerulean Teahouse's last owner. You found Mai-Lai's will on the teahouse counter and took it.
-**Type:** Person. The last owner of the [Cerulean Teahouse](#cerulean-teahouse). A document titled "The Last Will and Testament of Qing Mai-Lai" lay on the teahouse counter with the teahouse's papers. You took it.
+**Type:** Person. The last owner of the [Cerulean Teahouse](#cerulean-teahouse). A document titled "The Last Will and Testament of Qing Mai-Lai" lay on the teahouse counter with the teahouse's papers. You took it and read it. With no living heirs, the teahouse goes to the first person who recovers the "two pearls I've thrown into Fumeiyoshi's eyes."
 **Seen in:** [The Cerulean Teahouse](history.md#the-cerulean-teahouse).
 
 [↑ A–Z](#az)
@@ -467,6 +467,11 @@ Your current standing is on [Where we are now](now.md#your-standing-in-town).
 ### Shenmen
 **Type:** Place. The rural region of Tian Xia that Willowshore sits in. Rumors say jorogumo, spider creatures, now rule it.
 **Seen in:** [Willowshore basics](basics.md#recent-history).
+
+### Silvermist hunters
+**In short:** Willowshore's hunters. Old Matsuki wanted one to track Ugly Cute.
+**Type:** People. Willowshore's hunters, who live at the Silvermist Lodges in the woods south of town. [Old Matsuki](#matsuki-shou-old-matsuki) wanted one of them to track [Ugly Cute](#ugly-cute). You haven't asked them yet.
+**Seen in:** [The two elders](history.md#the-two-elders), [Missions for the town](history.md#missions-for-the-town).
 
 ### Southbank
 **In short:** The older half of town, south of the river. Old Matsuki speaks for it.

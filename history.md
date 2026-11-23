@@ -58,7 +58,7 @@ Everything your characters have done. Chapter 1 runs in order. You moved back an
 - At the [Matsuki estate](compendium.md#matsuki-estate) in [Southbank](compendium.md#southbank), [Old Matsuki](compendium.md#matsuki-shou-old-matsuki) briefed you.
   - He told you the story of Master [Zhi Hui](compendium.md#zhi-hui) and the [Eternal Lantern](compendium.md#eternal-lantern).
   - The Lantern needs three blessed copper coins to burn again. He gave you three coins and taught you the prayer to bless them.
-  - He wanted [Northridge](compendium.md#northridge) contacted and [Ugly Cute](compendium.md#ugly-cute) found, with help from the Silvermist hunters.
+  - He wanted [Northridge](compendium.md#northridge) contacted and [Ugly Cute](compendium.md#ugly-cute) found, with help from the [Silvermist hunters](compendium.md#silvermist-hunters).
   - About the monsters: the [buso](compendium.md#buso) on the bridge is a heavy drinker, so drug him. The jinkins fear him, so call him out alone.
 - You crossed the river at the [dam](compendium.md#willowshore-dam) into Northridge.
 - At the [Trade Office](compendium.md#trade-office), [Granny Hu](compendium.md#hu-ban-niang-granny-hu) marked monster sightings on a map.
@@ -74,7 +74,7 @@ Everything your characters have done. Chapter 1 runs in order. You moved back an
   - Dami gave you 2 lesser antidotes and a lesser darkvision elixir.
   - He opened his shrine to [Qi Zhong](compendium.md#qi-zhong) for a coin blessing.
   - He gave you a dose of [dreamtime tea](compendium.md#dreamtime-tea) to drug the buso.
-- **The Silvermist hunters:** you didn't follow up on Old Matsuki's request for a hunter to track Ugly Cute.
+- **The [Silvermist hunters](compendium.md#silvermist-hunters):** you didn't follow up on Old Matsuki's request for a hunter to track Ugly Cute.
 
 ### Blessing the coins
 
