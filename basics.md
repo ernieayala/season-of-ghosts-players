@@ -14,6 +14,8 @@ You spent the night in a forest clearing. At dawn, Choe Chung-hu (the miller) wa
 
 The adventure began on the **first day of summer, 7108**.
 
+**New characters** weren't abductees. You were in town when the monsters came. Read [The story so far](story.md) for what has happened since.
+
 ---
 
 ## The Campaign

@@ -25,8 +25,8 @@ The people, places, creatures, and ideas your characters know about, A to Z. Eac
 
 ### Asahina Shinzo
 **In short:** A traveling merchant with a raven on his shoulder. He set up a stall downtown after the monsters fell.
-**Type:** Person. A traveling salesman with an easy smile and a raven on his shoulder. He drove a horse-drawn cart into downtown soon after the monsters fell and set up a modest stall, hoping to add Willowshore to his regular route. Some townsfolk are wary of how soon he turned up. You've been buying and selling with him.
-**Seen in:** [The traveling merchant](history.md#the-traveling-merchant).
+**Type:** Person. A traveling salesman with an easy smile and a raven on his shoulder. He drove a horse-drawn cart into downtown soon after the monsters fell and set up a modest stall, hoping to add Willowshore to his regular route. Some townsfolk are wary of how soon he turned up. You've been buying and selling with him. He takes orders for goods he doesn't carry and brings them on a later visit. Kurizuki, Rai, and Yamano ordered elixirs from him.
+**Seen in:** [The traveling merchant](history.md#the-traveling-merchant), [Great Willow](history.md#great-willow).
 
 [↑ A–Z](#az)
 
@@ -183,8 +183,9 @@ The people, places, creatures, and ideas your characters know about, A to Z. Eac
 **Seen in:** [The cookware parade](history.md#the-cookware-parade).
 
 ### Great Willow
-**Type:** Landmark. An ancient tree on the mountain above town, and a sacred site.
-**Seen in:** [Willowshore basics](basics.md#key-landmarks-you-know).
+**In short:** The sacred tree above town, and the spirit who lives in it. They sent three of you to the willow grove to save a friend.
+**Type:** Landmark and spirit. An ancient tree on the mountain above town, and a sacred site. A spirit lives in it and calls themself Great Willow. Kurizuki, Rai, and Yamano brought wine as an offering and spoke with them. Great Willow asked them to save a friend, the spirit of a [willow grove](#willow-grove) to the south, from a mushroom creature, and said they would help with the [fog](#strange-fog) once their friend was safe.
+**Seen in:** [Willowshore basics](basics.md#key-landmarks-you-know), [Great Willow](history.md#great-willow).
 
 ### Gurglegut
 **In short:** A heavy-drinking buso, one of the three monster leaders. You killed him on Dawnstep Bridge.
@@ -287,8 +288,8 @@ The people, places, creatures, and ideas your characters know about, A to Z. Eac
 **Seen in:** [Blessing the coins](history.md#blessing-the-coins), [Three mysteries](history.md#three-mysteries).
 
 ### Lantern boon
-**In short:** +1 to Medicine and Society for each of you, from the gods whose coins lit the Lantern.
-**Type:** Rule. Relighting the Lantern earned each of you a **+1 item bonus** to the skill of each god whose coin you used:
+**In short:** +1 to Medicine and Society for those who relit the Lantern, from the gods whose coins they used. Nezu has it.
+**Type:** Rule. Relighting the Lantern earned each of the five who lit it a **+1 item bonus** to the skill of each god whose coin they used. Nezu still has it. Characters who joined later don't. The bonuses:
 - **Medicine**, from [Pharasma](#pharasma) and [Qi Zhong](#qi-zhong). They share the skill, so you get it once.
 - **Society**, from [Abadar](#abadar).
 
@@ -302,9 +303,9 @@ The people, places, creatures, and ideas your characters know about, A to Z. Eac
 **Seen in:** [The road into town](history.md#the-road-into-town).
 
 ### Love letters
-**In short:** Letters that reveal Yuli and Lelong's secret romance. Kurizuki has them.
-**Type:** Item. Letters hidden under a dresser drawer in the Sanmi house. They reveal a hidden romance between [Yuli Sanmi](#yuli-sanmi) and [Hu Lelong](#hu-lelong). Kurizuki has them.
-**Seen in:** [Mudwall House and the Sanmi family](history.md#mudwall-house-and-the-sanmi-family).
+**In short:** Letters that reveal Yuli and Lelong's secret romance. Kurizuki had them when he died.
+**Type:** Item. Letters hidden under a dresser drawer in the Sanmi house. They reveal a hidden romance between [Yuli Sanmi](#yuli-sanmi) and [Hu Lelong](#hu-lelong). Kurizuki kept them, and he had them when he died at the [willow grove](#willow-grove).
+**Seen in:** [Mudwall House and the Sanmi family](history.md#mudwall-house-and-the-sanmi-family), [The willow grove](history.md#the-willow-grove).
 
 ### Lung Wa
 **Type:** History. The empire that ran Willowshore as a lumber town. It collapsed two years ago, in 7106, and the lumber lords fled.
@@ -518,6 +519,11 @@ Your current standing is on [Where we are now](now.md#your-standing-in-town).
 ---
 
 ## W
+
+### Willow grove
+**In short:** A fungus-choked willow grove south of town. The creature there killed Kurizuki, Rai, and Yamano.
+**Type:** Place. A grove of willows south of Willowshore, home of a friend of [Great Willow](#great-willow). Fungus has overgrown it. A fungus creature lives there. It killed Kurizuki, Rai, and Yamano, and it's still alive. Nobody has gone back for their bodies.
+**Seen in:** [The willow grove](history.md#the-willow-grove).
 
 ### Willowshore
 **Type:** Place. Your home: a small lumber town of about 225 people in rural [Shenmen](#shenmen). The [Ceiba River](#ceiba-river) splits it into Northridge and Southbank.

@@ -2,7 +2,7 @@
 
 **Where we are now** · [The story so far](story.md) · [History](history.md) · [Compendium](compendium.md) · [Willowshore basics](basics.md)
 
-**Updated after the session on November 16, 2026.** Chapter 3. You're level 2.
+**Updated after the session on November 23, 2026.** Chapter 3. Nezu is level 2. New characters: ask the GM what level to build at.
 
 > This site holds only what your characters know. If something isn't here, they haven't learned it yet.
 >
@@ -12,12 +12,13 @@
 
 ## Right now
 
-- You're in Willowshore. It's summer, a few days after the [strange fog](compendium.md#strange-fog) turned you back on the road to [Karahai](compendium.md#karahai).
-- [Granny Hu](compendium.md#hu-ban-niang-granny-hu) and [Old Matsuki](compendium.md#matsuki-shou-old-matsuki) met you together at the [Lady of Souls](compendium.md#lady-of-souls). They thanked you and asked you to look into three mysteries.
-- Nobody has picked a mystery yet. That choice is yours.
-- You can move around town and the countryside near it. On the road to Karahai, the fog stopped you. Nobody knows yet where else it waits.
+- **Kurizuki, Rai, and Yamano are dead.** They went to the [willow grove](compendium.md#willow-grove) south of town, and the fungus creature there killed them. Nobody has gone back for their bodies.
+- **Nezu** wasn't with them. He's the last of this year's five abductees still on the case.
+- **New characters join now.** They lived through the invasion in town and know what everyone knows. Start with [The story so far](story.md) and [Willowshore basics](basics.md).
+- It's still summer. [Granny Hu](compendium.md#hu-ban-niang-granny-hu) and [Old Matsuki](compendium.md#matsuki-shou-old-matsuki) asked the town's defenders to look into three mysteries, and all three are still open.
+- You can move around town and the countryside near it. On the road to Karahai, the [strange fog](compendium.md#strange-fog) stopped the party. Nobody knows yet where else it waits.
 
-For how you got here, see [The story so far](story.md) or the [History](history.md#three-mysteries).
+For how you got here, see [The story so far](story.md) or the [History](history.md#the-willow-grove).
 
 ---
 
@@ -47,13 +48,13 @@ The elders want all three looked into, in any order. They think the governor is 
 - A few hours short of Karahai, past [Gourd Lake](compendium.md#gourd-lake), a fog rolled in fast and thick. When it lifted, you stood where you started. It happened every time you pushed on.
 - It isn't the [mirage mist](compendium.md#mirage-mist). That ended when you relit the Lantern.
 - The elders want to know how far it reaches. Does it only block the road to the coast, or does it ring the whole valley?
-- Nothing any of you knew explained it.
+- The spirit of the [Great Willow](compendium.md#great-willow) said they would help with the fog once their friend in the [willow grove](compendium.md#willow-grove) to the south was safe. Kurizuki, Rai, and Yamano went to the grove and died there. The creature in the grove is still alive.
 
 **You could**
 
+- Go back to Great Willow and tell them what happened at the grove.
 - Try another road or direction and see where the fog meets you there.
 - Ask the town's priests and scholars about curses: [Elizeth Candora](compendium.md#elizeth-candora) at the Lady of Souls, [Ba-Ming Ouh](compendium.md#ba-ming-ouh) at the Nine Ear Shrine, or the wizard [Igawa Jubei](compendium.md#igawa-jubei) at Mother's Coil.
-- Visit the [Great Willow](compendium.md#great-willow), the sacred tree on the mountain above town.
 - Ask the elders who might know the land well enough to judge where the fog runs.
 
 ### Ugly Cute
@@ -87,12 +88,13 @@ These aren't the elders' request. They're threads your characters know about, an
 
 - [Nadoya Sanmi](compendium.md#nadoya-sanmi) and her family are still in the iron-doored storehouse behind [Mudwall House](compendium.md#mudwall-house), where the jinkins shut them in.
 - You could check on them and see them somewhere safe.
-- [Yuli Sanmi](compendium.md#yuli-sanmi) and [Hu Lelong](compendium.md#hu-lelong) want to run away together. Kurizuki still has their [love letters](compendium.md#love-letters).
+- [Yuli Sanmi](compendium.md#yuli-sanmi) and [Hu Lelong](compendium.md#hu-lelong) want to run away together. Kurizuki had their [love letters](compendium.md#love-letters) when he died at the grove.
 
 ### Shopping with Shinzo
 
 - [Asahina Shinzo](compendium.md#asahina-shinzo) sells everyday goods from his cart and buys what you don't need.
 - If you want something he doesn't carry, you could ask him to bring it on his next visit.
+- Kurizuki, Rai, and Yamano ordered elixirs from him before they went to the grove. They're due on his next visit.
 
 ### Loose ends
 
@@ -106,14 +108,14 @@ These aren't the elders' request. They're threads your characters know about, an
 
 Each half of town, [Northridge](compendium.md#northridge) and [Southbank](compendium.md#southbank), tracks how you treat its people. This is your [Reputation](compendium.md#reputation). Helping people raises it, and hurting them or what they care about lowers it.
 
-Both halves of town count you as **Liked**. You haven't sided with either elder.
+Standing comes from deeds, so it belongs to the people who did them. Both halves of town count **Nezu** as **Liked**. New characters start **Ignored** with both, unless the GM rules otherwise. Nobody has sided with either elder.
 
-| Faction | Standing | Townsfolk start | Social checks | Earn Income |
-|---|---|---|---|---|
-| [Northridge](compendium.md#northridge) | **Liked** | Friendly | 2 easier | +1 |
-| [Southbank](compendium.md#southbank) | **Liked** | Friendly | 2 easier | +1 |
+| Faction | Nezu | New characters |
+|---|---|---|
+| [Northridge](compendium.md#northridge) | **Liked** | Ignored |
+| [Southbank](compendium.md#southbank) | **Liked** | Ignored |
 
-What "Liked" gets you with that faction's people:
+What "Liked" gets Nezu with that faction's people:
 
 - **Friendly to start.** Townsfolk greet you as friends. They're willing to help, within reason.
 - **Social checks are 2 easier.** When you try to persuade, trick, or pressure someone, with skills such as Diplomacy, Deception, or Intimidation, the number you need to roll is 2 lower.
@@ -126,7 +128,7 @@ The [Reputation](compendium.md#reputation) entry lists the full ladder, from Hun
 ## Reminders
 
 - **The Lantern is lit.** The mirage mist, crimson moon, and blood rain have ended in town.
-- **The [Lantern boon](compendium.md#lantern-boon):** each of you has +1 to Medicine and +1 to Society.
+- **The [Lantern boon](compendium.md#lantern-boon):** Nezu has +1 to Medicine and +1 to Society. New characters didn't light the Lantern, so they don't have it.
 - **Nezu's [cursed necklace](compendium.md#cursed-family-necklace):** while he wears or carries it, he takes −1 to Diplomacy and Stealth. You could ask at a temple whether anyone can lift the curse.
 - **[Seasonal boons](compendium.md#seasonal-boon):** if your background gave you one, you can use it once per season. It's still summer.
 - **Healing:** [Doctor Dami](compendium.md#doctor-dami) runs the [Hand of Spring](compendium.md#hand-of-spring) clinic.

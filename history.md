@@ -29,6 +29,8 @@ Everything your characters have done. Chapter 1 runs in order. You moved back an
   - [Granny Hu's errand](#granny-hus-errand)
   - [The road to Karahai](#the-road-to-karahai)
   - [Three mysteries](#three-mysteries)
+  - [Great Willow](#great-willow)
+  - [The willow grove](#the-willow-grove)
 - [Session dates](#session-dates)
 
 ---
@@ -194,7 +196,20 @@ Everything your characters have done. Chapter 1 runs in order. You moved back an
   - the vanishing of Governor [Heh Shan-Bao](compendium.md#heh-shan-bao) and his [manor](compendium.md#governors-manor). They think this is the most pressing.
   - the [strange fog](compendium.md#strange-fog) that surrounds the land around town and stops travel
   - the disappearance of [Ugly Cute](compendium.md#ugly-cute)
-- **This is where you stopped.** See [Where we are now](now.md).
+
+### Great Willow
+
+- Kurizuki, Rai, and Yamano took up the fog first. Nezu wasn't with them.
+- They bought wine in town as an offering for the spirit of the [Great Willow](compendium.md#great-willow).
+- They placed orders for elixirs with [Asahina Shinzo](compendium.md#asahina-shinzo), for him to bring on his next visit.
+- They climbed to the Great Willow and spoke with its spirit. Great Willow asked them to save a friend, the spirit of a [willow grove](compendium.md#willow-grove) to the south, from a mushroom creature that had taken it over. They said they would help with the fog once their friend was safe.
+
+### The willow grove
+
+- The three went south to the [willow grove](compendium.md#willow-grove). Fungus had overgrown it.
+- A fungus creature lived there. They fought it, and at least one of them caught a disease from it.
+- **It killed Kurizuki, Rai, and Yamano.** Nobody has gone back for their bodies.
+- **This is where the story stands.** See [Where we are now](now.md).
 
 [↑ Back to top](#history)
 
@@ -209,5 +224,6 @@ Earlier Chapter 2 scenes, like the stables and the stage, happened before Foundr
 | June 8, 2026 | De-ge and the kappas, Mudwall House, Nadoya, the love letters |
 | July 13, 2026 | The barracks and armory, the caged townsfolk, Gray Butcher, the teahouse toad |
 | November 16, 2026 | Shinzo, the returned jewelry, the road to Karahai, the elders' three mysteries |
+| November 23, 2026 | Wine for Great Willow, elixir orders with Shinzo, the willow grove, where Kurizuki, Rai, and Yamano died |
 
 [↑ Back to top](#history)
